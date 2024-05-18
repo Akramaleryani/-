@@ -1,0 +1,226 @@
+
+```html
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تنسيق شجيرات</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            padding: 10px;
+        }
+```html
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تنسيق شجيرات</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #4CAF50;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .services img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>تنسيق شجيرات</h1>
+</header>
+
+<nav>
+    <a href="#about">نبذة عني</a>
+    <a href="#services">الخدمات</a>
+    <a href="#portfolio">الأعمال السابقة</a>
+    <a href="#contact">تواصل معي</a>
+</nav>
+
+<section id="about">
+    <h2>نبذة عني</h2>
+    <p>مرحباً! أنا متخصص في الزراعة وتنسيق الحدائق. لدي خبرة واسعة في زراعة المسطحات الخضراء وتنسيق الأشجار وصيانة وتركيب شبكات الري.</p>
+</section>
+
+<section id="services">
+    <h2>الخدمات</h2>
+    <div class="services">
+        <h3>زراعة المسطحات الخضراء</h3>
+        <p>نقوم بزراعة وتنسيق المسطحات الخضراء لتحويل مساحاتكم إلى حدائق خلابة.</p>
+        <img src="path/to/lawn-image.jpg" alt="زراعة المسطحات الخضراء">
+
+        <h3>تنسيق الأشجار</h3>
+        <p>نقدم خدمات تنسيق الأشجار لضمان شكلها الجمالي وصحتها.</p>
+        <img src="path/to/tree-image.jpg" alt="تنسيق الأشجار">
+
+        <h3>صيانة وتركيب شبكات الري</h3>
+        <p>نوفر خدمات صيانة وتركيب شبكات الري لضمان حصول نباتاتكم على الكمية المناسبة من الماء.</p>
+        <img src="path/to/irrigation-image.jpg" alt="شبكات الري">
+    </div>
+</section>
+
+<section id="portfolio">
+    <h2>الأعمال السابقة</h2>
+    <p>هنا بعض من أعمالي السابقة:</p>
+    <!-- هنا يمكنك تضمين الصور والأعمال السابقة -->
+    <img src="path/to/previous-work1.jpg" alt="عمل سابق 1">
+    <img src="path/to/previous-work2.jpg" alt="عمل سابق 2">
+</section>
+
+<section id="contact">
+    <h2>تواصل معي</h2>
+    <p>يمكنك التواصل معي عبر البريد الإلكتروني أو الهاتف:</p>
+    <ul>
+        <li>البريد الإلكتروني: your-email@example.com</li>
+        <li>الهاتف: 123-456-7890</li>
+    </ul>
+</section>
+
+<footer>
+    <p>&copy; 2024 تنسيق شجيرات. جميع الحقوق محفوظة.</p>
+</footer>
+
+</body>
+</html>
+```
+`index.html`.
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #4CAF50;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .services img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>تنسيق شجيرات</h1>
+</header>
+
+<nav>
+    <a href="#about">نبذة عني</a>
+    <a href="#services">الخدمات</a>
+    <a href="#portfolio">الأعمال السابقة</a>
+    <a href="#contact">تواصل معي</a>
+</nav>
+
+<section id="about">
+    <h2>نبذة عني</h2>
+    <p>مرحباً! أنا متخصص في الزراعة وتنسيق الحدائق. لدي خبرة واسعة في زراعة المسطحات الخضراء وتنسيق الأشجار وصيانة وتركيب شبكات الري.</p>
+</section>
+
+<section id="services">
+    <h2>الخدمات</h2>
+    <div class="services">
+        <h3>زراعة المسطحات الخضراء</h3>
+        <p>نقوم بزراعة وتنسيق المسطحات الخضراء لتحويل مساحاتكم إلى حدائق خلابة.</p>
+        <img src="path/to/lawn-image.jpg" alt="زراعة المسطحات الخضراء">
+
+        <h3>تنسيق الأشجار</h3>
+        <p>نقدم خدمات تنسيق الأشجار لضمان شكلها الجمالي وصحتها.</p>
+        <img src="path/to/tree-image.jpg" alt="تنسيق الأشجار">
+
+        <h3>صيانة وتركيب شبكات الري</h3>
+        <p>نوفر خدمات صيانة وتركيب شبكات الري لضمان حصول نباتاتكم على الكمية المناسبة من الماء.</p>
+        <img src="path/to/irrigation-image.jpg" alt="شبكات الري">
+    </div>
+</section>
+
+<section id="portfolio">
+    <h2>الأعمال السابقة</h2>
+    <p>هنا بعض من أعمالي السابقة:</p>
+    <!-- هنا يمكنك تضمين الصور والأعمال السابقة -->
+    <img src="path/to/previous-work1.jpg" alt="عمل سابق 1">
+    <img src="path/to/previous-work2.jpg" alt="عمل سابق 2">
+</section>
+
+<section id="contact">
+    <h2>تواصل معي</h2>
+    <p>يمكنك التواصل معي عبر البريد الإلكتروني أو الهاتف:</p>
+    <ul>
+        <li>البريد الإلكتروني: your-email@example.com</li>
+        <li>الهاتف: 123-456-7890</li>
+    </ul>
+</section>
+
+<footer>
+    <p>&copy; 2024 تنسيق شجيرات. جميع الحقوق محفوظة.</p>
+</footer>
+
+</body>
+</html>
+```.
